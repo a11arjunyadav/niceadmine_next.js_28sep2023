@@ -7,7 +7,7 @@ export default function page() {
         <header id="header" className="header fixed-top d-flex align-items-center">
             <div className="d-flex align-items-center justify-content-between">
             <a href="index.html" className="logo d-flex align-items-center">
-                <img src="assets/img/logo.png" alt />
+                <img src="assets/img/logo.png" alt="true" />
                 <span className="d-none d-lg-block">NiceAdmin</span>
             </a>
             <i className="bi bi-list toggle-sidebar-btn" />
@@ -102,7 +102,7 @@ export default function page() {
                     </li>
                     <li className="message-item">
                     <a href="#">
-                        <img src="assets/img/messages-1.jpg" alt className="rounded-circle" />
+                        <img src="assets/img/messages-1.jpg" alt="true" className="rounded-circle" />
                         <div>
                         <h4>Maria Hudson</h4>
                         <p>Velit asperiores et ducimus soluta repudiandae labore officia est ut...</p>
@@ -115,7 +115,7 @@ export default function page() {
                     </li>
                     <li className="message-item">
                     <a href="#">
-                        <img src="assets/img/messages-2.jpg" alt className="rounded-circle" />
+                        <img src="assets/img/messages-2.jpg" alt="true" className="rounded-circle" />
                         <div>
                         <h4>Anna Nelson</h4>
                         <p>Velit asperiores et ducimus soluta repudiandae labore officia est ut...</p>
@@ -128,7 +128,7 @@ export default function page() {
                     </li>
                     <li className="message-item">
                     <a href="#">
-                        <img src="assets/img/messages-3.jpg" alt className="rounded-circle" />
+                        <img src="assets/img/messages-3.jpg" alt="true" className="rounded-circle" />
                         <div>
                         <h4>David Muldon</h4>
                         <p>Velit asperiores et ducimus soluta repudiandae labore officia est ut...</p>
@@ -630,35 +630,35 @@ export default function page() {
                             </thead>
                             <tbody>
                             <tr>
-                                <th scope="row"><a href="#"><img src="assets/img/product-1.jpg" alt /></a></th>
+                                <th scope="row"><a href="#"><img src="assets/img/product-1.jpg" alt="true" /></a></th>
                                 <td><a href="#" className="text-primary fw-bold">Ut inventore ipsa voluptas nulla</a></td>
                                 <td>$64</td>
                                 <td className="fw-bold">124</td>
                                 <td>$5,828</td>
                             </tr>
                             <tr>
-                                <th scope="row"><a href="#"><img src="assets/img/product-2.jpg" alt /></a></th>
+                                <th scope="row"><a href="#"><img src="assets/img/product-2.jpg" alt="true" /></a></th>
                                 <td><a href="#" className="text-primary fw-bold">Exercitationem similique doloremque</a></td>
                                 <td>$46</td>
                                 <td className="fw-bold">98</td>
                                 <td>$4,508</td>
                             </tr>
                             <tr>
-                                <th scope="row"><a href="#"><img src="assets/img/product-3.jpg" alt /></a></th>
+                                <th scope="row"><a href="#"><img src="assets/img/product-3.jpg" alt="true" /></a></th>
                                 <td><a href="#" className="text-primary fw-bold">Doloribus nisi exercitationem</a></td>
                                 <td>$59</td>
                                 <td className="fw-bold">74</td>
                                 <td>$4,366</td>
                             </tr>
                             <tr>
-                                <th scope="row"><a href="#"><img src="assets/img/product-4.jpg" alt /></a></th>
+                                <th scope="row"><a href="#"><img src="assets/img/product-4.jpg" alt="true" /></a></th>
                                 <td><a href="#" className="text-primary fw-bold">Officiis quaerat sint rerum error</a></td>
                                 <td>$32</td>
                                 <td className="fw-bold">63</td>
                                 <td>$2,016</td>
                             </tr>
                             <tr>
-                                <th scope="row"><a href="#"><img src="assets/img/product-5.jpg" alt /></a></th>
+                                <th scope="row"><a href="#"><img src="assets/img/product-5.jpg" alt="true" /></a></th>
                                 <td><a href="#" className="text-primary fw-bold">Sit unde debitis delectus repellendus</a></td>
                                 <td>$79</td>
                                 <td className="fw-bold">41</td>
@@ -787,27 +787,27 @@ export default function page() {
                     <h5 className="card-title">News &amp; Updates <span>| Today</span></h5>
                     <div className="news">
                         <div className="post-item clearfix">
-                        <img src="assets/img/news-1.jpg" alt />
+                        <img src="assets/img/news-1.jpg" alt="true" />
                         <h4><a href="#">Nihil blanditiis at in nihil autem</a></h4>
                         <p>Sit recusandae non aspernatur laboriosam. Quia enim eligendi sed ut harum...</p>
                         </div>
                         <div className="post-item clearfix">
-                        <img src="assets/img/news-2.jpg" alt />
+                        <img src="assets/img/news-2.jpg" alt="true" />
                         <h4><a href="#">Quidem autem et impedit</a></h4>
                         <p>Illo nemo neque maiores vitae officiis cum eum turos elan dries werona nande...</p>
                         </div>
                         <div className="post-item clearfix">
-                        <img src="assets/img/news-3.jpg" alt />
+                        <img src="assets/img/news-3.jpg" alt="true" />
                         <h4><a href="#">Id quia et et ut maxime similique occaecati ut</a></h4>
                         <p>Fugiat voluptas vero eaque accusantium eos. Consequuntur sed ipsam et totam...</p>
                         </div>
                         <div className="post-item clearfix">
-                        <img src="assets/img/news-4.jpg" alt />
+                        <img src="assets/img/news-4.jpg" alt="true" />
                         <h4><a href="#">Laborum corporis quo dara net para</a></h4>
                         <p>Qui enim quia optio. Eligendi aut asperiores enim repellendusvel rerum cuder...</p>
                         </div>
                         <div className="post-item clearfix">
-                        <img src="assets/img/news-5.jpg" alt />
+                        <img src="assets/img/news-5.jpg" alt="true" />
                         <h4><a href="#">Et dolores corrupti quae illo quod dolor</a></h4>
                         <p>Odit ut eveniet modi reiciendis. Atque cupiditate libero beatae dignissimos eius...</p>
                         </div>
