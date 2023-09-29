@@ -1,5 +1,6 @@
 //
-import '../../public/assets/vendor/bootstrap/dist/css/bootstrap.min.css';
+//import 'bootstrap/dist/css/bootstrap.min.css';
+import '../../public/assets/vendor/bootstrap/css/bootstrap.min.css';
 import '../../public/assets/vendor/bootstrap-icons/bootstrap-icons.css';
 import '../../public/assets/vendor/boxicons/css/boxicons.min.css';
 import '../../public/assets/vendor/quill/quill.snow.css';
